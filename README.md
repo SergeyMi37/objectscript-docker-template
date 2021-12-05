@@ -1,4 +1,9 @@
-## intersystems-objectscript-template
+## intersystems-objectscript-docker-template
+
+ [![Gitter](https://img.shields.io/badge/Available%20on-Intersystems%20Open%20Exchange-00b2a9.svg)](https://openexchange.intersystems.com/package/objectscript-docker-template)
+ [![Quality Gate Status](https://community.objectscriptquality.com/api/project_badges/measure?project=intersystems_iris_community%2Fobjectscript-docker-template&metric=alert_status)](https://community.objectscriptquality.com/dashboard?id=intersystems_iris_community%2objectscript-docker-template)
+ <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/intersystems-community/objectscript-docker-template">
+
 This is a template for InterSystems ObjectScript Github repository.
 The template goes also with a few files which let you immedietly compile your ObjecScript files in InterSystems IRIS Community Edition in a docker container
 
